@@ -21,3 +21,5 @@ Visual guide to repositories
 <a href="https://github.com/RebeccaOC/NewYears_2020"><img width="200px" src="NewYears.jpg" ></a>
 <a href="https://github.com/RebeccaOC/NewYears_2020"><img width="200px" src="Valentines2021.jpg" ></a>
 <a href="https://github.com/RebeccaOC/NewYears_2020"><img width="200px" src="FDLBook.jpg" ></a>
+<a href="https://github.com/RebeccaOC/NewYears_2020"><img width="200px" src="Pipette_sugru.gif" ></a>
+<a href="https://github.com/RebeccaOC/NewYears_2020"><img width="200px" src="Pipette_sugru.gif" ></a>
