@@ -11,7 +11,7 @@ Visual guide to repositories
 ### Vinyl Projects
 
 <a href="https://github.com/RebeccaOC/Vinyl_SoapLabels"><img width="200px" src="SoapLabel.jpg" ></a>
-<a href="https://github.com/RebeccaOC/Vinyl_CampShirt"><img width="200px" src="CampShirt.jpg" ></a>                                                                       
+<a href="https://github.com/RebeccaOC/Vinyl_CampShirt"><img width="200px" src="CampShirt.jpg" ></a>
 <a href="https://github.com/RebeccaOC/Vinyl_SizeTestingStickers"><img width="200px" src="HTVTestCavalier.jpg" ></a>
 <a href="https://github.com/RebeccaOC/Treadmill"><img width="200px" src="Treadmill.jpg" ></a>
 <a href="https://github.com/RebeccaOC/Vinyl_ServingTray"><img width="200px" src="ServingTray.jpg" ></a>
