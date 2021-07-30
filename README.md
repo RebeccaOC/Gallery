@@ -19,6 +19,7 @@ Visual guide to repositories
 <a href="https://github.com/RebeccaOC/Vinyl_SizeTestingStickers"><img width="200px" src="HTVTestCavalier.jpg" ></a>
 <a href="https://github.com/RebeccaOC/Treadmill"><img width="200px" src="Treadmill.jpg" ></a>
 <a href="https://github.com/RebeccaOC/Vinyl_ServingTray"><img width="200px" src="ServingTray.jpg" ></a>
+<a href="https://github.com/RebeccaOC/Vinyl_ServingTray"><img width="200px" src="GymTank.jpg" ></a>
 
 ### Other Projects
 
